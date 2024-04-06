@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    float a;
+    int i;
+    cin >> a;
+    cin >> i;
+    cout << "a = "<< a << endl;
+    cout << "i = "<< i << endl;
+
+
+    return 0;
+}

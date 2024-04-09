@@ -1,0 +1,6 @@
+nome =input("digite seu nome:")
+sobrenome = input("digite seu sobrenome:")
+len(nome)
+len(sobrenome)
+
+print(nome, ",", sobrenome[0],sep='')

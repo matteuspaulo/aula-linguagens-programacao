@@ -1,0 +1,16 @@
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+    int main() {
+        string nome;
+        string sobrenome;
+        string ultims_posicao;
+
+        cin >> nome;
+        cin >> sobrenome ;
+        string ultima_posicao = length(nome) -1;
+
+        cout << sobrenome << "," << nome[0], nome[0] << endl;
+        return 0;
